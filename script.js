@@ -50,3 +50,5 @@ table.style.margin = "20px auto"; // Centers the table on the page (can rahul ce
 // Adding attributes to the table
 table.setAttribute("cellpadding", "10"); // Adds padding inside table cells
 table.setAttribute("cellspacing", "5"); // Adds spacing between table cells
+
+//
