@@ -38,7 +38,7 @@ trThree.appendChild(tdSeven);
 trThree.appendChild(tdEight);
 trThree.appendChild(tdNine);
 tdSeven.innerHTML = "Pontiac";
-tdEight.innerHTML = "120 MPH";
+tdEight.innerHTML = "140 MPH";
 tdNine.innerHTML = "$20,000";
 
 // Styling the table
